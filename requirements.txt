@@ -1,6 +1,5 @@
 alembic==1.7.6
 appdirs==1.4.3
-apt-xapian-index==0.49
 arrow==1.2.1
 asgiref==3.4.1
 atomicwrites==1.1.5
